@@ -1,0 +1,33 @@
+[
+  { "_id": "hb1", "name": "Tea", "category": "Hot Beverages", "price": 30, "emoji": "🍵", "available": true, "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=300&q=80", "tag": "" },
+  { "_id": "hb2", "name": "Lemon Tea", "category": "Hot Beverages", "price": 35, "emoji": "🍋", "available": true, "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=300&q=80", "tag": "Refreshing" },
+  { "_id": "hb3", "name": "Green Tea", "category": "Hot Beverages", "price": 40, "emoji": "🍃", "available": true, "image": "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5?w=300&q=80", "tag": "Healthy" },
+  { "_id": "hb4", "name": "Hot Coffee", "category": "Hot Beverages", "price": 50, "emoji": "☕", "available": true, "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=300&q=80", "tag": "" },
+  { "_id": "hb5", "name": "Black Coffee", "category": "Hot Beverages", "price": 45, "emoji": "☕", "available": true, "image": "https://images.unsplash.com/photo-1497515114629-f71d768fd07c?w=300&q=80", "tag": "Strong" },
+
+  { "_id": "cf1", "name": "Americano", "category": "Coffee", "price": 120, "emoji": "☕", "available": true, "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=300&q=80", "tag": "" },
+  { "_id": "cf2", "name": "Cappuccino", "category": "Coffee", "price": 140, "emoji": "☕", "available": true, "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=300&q=80", "tag": "Popular" },
+  { "_id": "cf3", "name": "Cafe Latte", "category": "Coffee", "price": 150, "emoji": "☕", "available": true, "image": "https://images.unsplash.com/photo-1561882468-9110d70c0f15?w=300&q=80", "tag": "Chef's Choice" },
+  { "_id": "cf4", "name": "Cold Coffee", "category": "Coffee", "price": 120, "emoji": "🧊", "available": true, "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=300&q=80", "tag": "" },
+  { "_id": "cf5", "name": "Hazelnut Coffee", "category": "Coffee", "price": 160, "emoji": "☕", "available": true, "image": "https://images.unsplash.com/photo-1485808191679-5f86510bd9d4?w=300&q=80", "tag": "Special" },
+
+  { "_id": "cb1", "name": "Cold Coffee", "category": "Cold Beverages", "price": 120, "emoji": "🧋", "available": true, "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=300&q=80", "tag": "" },
+  { "_id": "cb2", "name": "Oreo Shake", "category": "Cold Beverages", "price": 150, "emoji": "🍦", "available": true, "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=300&q=80", "tag": "Fan Fav" },
+  { "_id": "cb3", "name": "KitKat Shake", "category": "Cold Beverages", "price": 160, "emoji": "🍫", "available": true, "image": "https://images.unsplash.com/photo-1579954115545-a95591f28bfc?w=300&q=80", "tag": "" },
+  { "_id": "cb4", "name": "Chocolate Shake", "category": "Cold Beverages", "price": 140, "emoji": "🍫", "available": true, "image": "https://images.unsplash.com/photo-1619158401201-8b8fd7f466f7?w=300&q=80", "tag": "" },
+  { "_id": "cb5", "name": "Mango Shake", "category": "Cold Beverages", "price": 130, "emoji": "🥭", "available": true, "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?w=300&q=80", "tag": "Seasonal" },
+
+  { "_id": "bd1", "name": "Bun Maska", "category": "Bites & Delights", "price": 40, "emoji": "🥐", "available": true, "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&q=80", "tag": "" },
+  { "_id": "bd2", "name": "French Fries", "category": "Bites & Delights", "price": 80, "emoji": "🍟", "available": true, "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=300&q=80", "tag": "" },
+  { "_id": "bd3", "name": "Peri Peri Fries", "category": "Bites & Delights", "price": 90, "emoji": "🌶️", "available": true, "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=300&q=80", "tag": "Spicy" },
+  { "_id": "bd4", "name": "Vegetable Maggi", "category": "Bites & Delights", "price": 60, "emoji": "🍜", "available": true, "image": "https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?w=300&q=80", "tag": "" },
+  { "_id": "bd5", "name": "Paneer Maggi", "category": "Bites & Delights", "price": 80, "emoji": "🍜", "available": true, "image": "https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?w=300&q=80", "tag": "Popular" },
+  { "_id": "bd6", "name": "Red Sauce Pasta", "category": "Bites & Delights", "price": 130, "emoji": "🍝", "available": true, "image": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=300&q=80", "tag": "" },
+  { "_id": "bd7", "name": "White Sauce Pasta", "category": "Bites & Delights", "price": 130, "emoji": "🍝", "available": true, "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=300&q=80", "tag": "" },
+  { "_id": "bd8", "name": "Corn Sandwich", "category": "Bites & Delights", "price": 90, "emoji": "🥪", "available": true, "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=300&q=80", "tag": "" },
+  { "_id": "bd9", "name": "Veg Sandwich", "category": "Bites & Delights", "price": 80, "emoji": "🥪", "available": true, "image": "https://images.unsplash.com/photo-1481070414801-51fd732d7184?w=300&q=80", "tag": "" },
+  { "_id": "bd10", "name": "Paneer Sandwich", "category": "Bites & Delights", "price": 100, "emoji": "🥪", "available": true, "image": "https://images.unsplash.com/photo-1539252554453-80ab65ce3586?w=300&q=80", "tag": "New" },
+  { "_id": "bd11", "name": "Veg Nuggets", "category": "Bites & Delights", "price": 100, "emoji": "🍗", "available": true, "image": "https://images.unsplash.com/photo-1562967914-608f82629710?w=300&q=80", "tag": "" },
+  { "_id": "bd12", "name": "Cheesy Shots", "category": "Bites & Delights", "price": 110, "emoji": "🧀", "available": true, "image": "https://images.unsplash.com/photo-1548340748-6ca50f408cb8?w=300&q=80", "tag": "Cheesy" },
+  { "_id": "bd13", "name": "Popcorn", "category": "Bites & Delights", "price": 60, "emoji": "🍿", "available": true, "image": "https://images.unsplash.com/photo-1585647347483-22b66260dfff?w=300&q=80", "tag": "" }
+]
